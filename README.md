@@ -1,2 +1,1 @@
-# investment-thesis-research
-Comparative analysis of AAPL and MSFT for long-term investment potential
+# Investment Thesis Research - AAPL vs MSFT Comparative analysis project for senior thesis at NYU Stern School of Business.
